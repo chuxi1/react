@@ -1,0 +1,19 @@
+
+  .container{
+    display: flex;
+    background-image: url('../../assets/images/5.jpg');
+    background-size: cover;
+  }
+  .login-farm{
+    min-width: 350px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #cfdac6;
+    display: flex;
+    justify-content: flex-start;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
